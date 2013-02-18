@@ -1,0 +1,12 @@
+
+@attribute 'attribute1' REAL
+@attribute 'attribute2' REAL
+@attribute 'attribute3' REAL
+@attribute 'attribute4' REAL
+@attribute 'attribute5' REAL
+@attribute 'attribute6' REAL
+@attribute 'attribute7' REAL
+@attribute 'attribute8' REAL
+@attribute 'attribute9' REAL
+@attribute 'attribute10' REAL
+@attribute 'Classes' {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10'}
